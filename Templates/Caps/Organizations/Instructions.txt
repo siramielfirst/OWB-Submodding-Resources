@@ -1,0 +1,4 @@
+Step 1 - Copy and paste all the files besides this one into your mod file, and make sure its in the correct spots
+Step 2 - Go to common/scripted_localisation/_organization_scripted_localization, find all the organizations called "template" and replace it with the name of the organzation (use an _ if its multiple words)
+Step 3 - Go to common/scripted_effects/organization_scripted_effects, and find the X on top in the "Organization Initialization" section. Replace X with the node state number of your choosing (Note: Must be a node capital state)
+Step 4 - Go to localisation/organization_l_english, and change all organizations using the name "Template" with the one of your choosing.
